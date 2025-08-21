@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishnudev-sys
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Full Stack Developement
+- 🌱 I’m working at Deloitte as .Net Full Stack Application Developer
 
 <!---
 vishnudev-sys/vishnudev-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
